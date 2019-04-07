@@ -1,0 +1,5 @@
+eclipse.preferences.version=1
+encoding//src/org/weather/client/BasicHttpBinding_IServiceStub.java=UTF-8
+encoding//src/org/weather/client/IService.java=UTF-8
+encoding//src/org/weather/client/Service.java=UTF-8
+encoding//src/org/weather/client/ServiceLocator.java=UTF-8
